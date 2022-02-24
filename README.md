@@ -35,6 +35,6 @@
 
 ### ⚙️ Statistics
 <a style="text-align: center; margin: 0; padding: 0" href="https://github.com/vfunin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vfunin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=My Github Statistics"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfunin&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vfunin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=My Github Statistics"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfunin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
