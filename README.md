@@ -22,6 +22,7 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-373f50?style=flat&logo=RabbitMQ)
 ![Sentry](https://img.shields.io/badge/-Sentry-373f50?style=flat&logo=sentry)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-373f50?style=flat&logo=elasticsearch)
+![Docker](https://img.shields.io/badge/-Docker-373f50?style=flat&logo=docker)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-373f50?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-373f50?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-373f50?style=flat&logo=node.js)
@@ -38,3 +39,5 @@
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vfunin&show_icons=true&border_color=fff&hide_border=true&theme=algolia&title_color=d0dfff&bg_color=373f50&include_all_commits=true&count_private=true&custom_title=My Github Statistics"/>
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfunin&layout=compact&hide_border=true&title_color=d0dfff&bg_color=373f50&langs_count=8&theme=algolia"/>
 </a>
+
+ 
