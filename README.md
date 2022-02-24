@@ -2,17 +2,17 @@
 
 ### 👨🏻‍💻 About Me
 #### 🔭 I’m currently working on
-* golang
+* go
 * php
 
 #### 🌱 I’m currently learning
-* golang
+* go
 * math
 * data science
 * algorithms
 
 ### 🛠 Tech Stack
-![Golang](https://img.shields.io/badge/-Go-373f50?style=flat&logo=go)
+![Go](https://img.shields.io/badge/-Go-373f50?style=flat&logo=go)
 ![PHP](https://img.shields.io/badge/-PHP-373f50?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-373f50?style=flat&logo=mysql&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-373f50?style=flat&logo=PostgreSQL&logoColor)
